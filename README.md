@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/1.png)
+![1](Documentation/1.png)
 
 # Flash-Chat
 
